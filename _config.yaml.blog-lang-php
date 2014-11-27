@@ -11,3 +11,5 @@ menu:
 #	Page: page/
 
 #google_analytics: test
+
+rss: atom.xml
