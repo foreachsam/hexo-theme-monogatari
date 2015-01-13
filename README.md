@@ -1,6 +1,6 @@
 # hexo-theme-monogatari
 
-hexo-theme-monogatari is the theme for [Hexo](http://hexo.io/).
+hexo-theme-monogatari is the [theme](https://github.com/hexojs/hexo/wiki/Themes) for [Hexo](http://hexo.io/).
 
 ## Demo
 
